@@ -6,6 +6,10 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# ignore this notebook and dataset
+nlp_example1.ipynb
+Sentiment140.csv
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
